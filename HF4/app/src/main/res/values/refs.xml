@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_flag_eur" />
+    <drawable name="ic_flag_usd" />
+    <drawable name="ic_flag_gbp" />
+    <drawable name="ic_flag_aud" />
+    <drawable name="ic_flag_cad" />
+    <drawable name="ic_flag_chf" />
+    <drawable name="ic_flag_dkk" />
+    <drawable name="ic_flag_huf" />
+</resources>
